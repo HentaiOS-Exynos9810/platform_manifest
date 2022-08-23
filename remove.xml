@@ -4,4 +4,7 @@
   <!-- MKBOOTIMG -->
   <remove-project name="platform/system/tools/mkbootimg" />
 
+  <!-- SOONG -->
+  <remove-project name="platform/build/soong" />
+
 </manifest>
